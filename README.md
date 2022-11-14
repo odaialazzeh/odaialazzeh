@@ -15,6 +15,9 @@
 - I’m currently open for: `An Intern` or a new `job opportunity.
 - Always `learning new things`
 
+<br>
+<br>
+
 ## 🛠️ My Skills
 
 ### 👉 Programming languages
@@ -80,4 +83,10 @@
   &emsp;
     <a href="#"><img alt="Eclipse" src="https://img.shields.io/badge/eclipse%20ide-%232C2255.svg?&style=plastic&logo=eclipse%20ide&logoColor=white" /></a>
 </p>
+<br>
+<br>
 
+  ## <b>💻 GitHub Profile Stats</b>
+  <br/>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=odaialazzeh&show_icons=true&theme=default)
