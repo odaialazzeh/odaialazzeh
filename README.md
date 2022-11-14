@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Odai Alazzeh<img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
-<h3 font-size="20" align="center">I'm a full-stack development student currently enrolled in Mircoverse</h3>
+<h3 font-size="20" align="center">I'm a full-stack development student currently enrolled in Microverse</h3>
 
 ![](https://komarev.com/ghpvc/?username=odaialazzeh)
 
