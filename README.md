@@ -90,3 +90,6 @@
   <br/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=odaialazzeh&show_icons=true&theme=default)
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=odaialazzeh&layout=compact)](https://github.com/odaialazzeh/github-readme-stats)
+
