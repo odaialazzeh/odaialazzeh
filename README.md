@@ -94,14 +94,13 @@
 
 ## 📬 Connect with me
 <p align="center">
-	<a href="mailto:odai.alazzeh@gmail.com"><img img src="https://icons8.com/icon/37246/gmail-logo.svg" title="Gmail" width="80" height="40" alt="Gmail"/></a>
+     <a href="mailto:odai.alazzeh@gmail.com" rel="nofollow"> <img src="https://raw.githubusercontent.com/odaialazzeh/odaialazzeh/f0691e9099a622f266dc3d61be4e982750ff6386/icons/gmail.svg" alt="gmail" title="gmail" width="40" height="40" style="max-width: 100%;"> </a>
   &emsp;
      <a href="https://github.com/odaialazzeh" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" title="github" width="40" height="40" style="max-width: 100%;"> </a>
   &emsp;
-  	<a href="https://wa.me/+972598560564"><img src="https://raw.githubusercontent.com/odaialazzeh/odaialazzeh/e5613a68829f7696169eddbc7e09c78668196878/icons/whatsapp.svg" width="40" height="40" alt="Whatsapp"/></a>
+  	<a href="https://wa.me/+972598560564"><img src="https://raw.githubusercontent.com/odaialazzeh/odaialazzeh/e5613a68829f7696169eddbc7e09c78668196878/icons/whatsapp.svg" width="40" height="40" alt="Whatsapp" title="Whatsapp" /></a>
   &emsp;
-
-	<a href="https://www.linkedin.com/in/odai-alazzeh-01546024a"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-	<a href="https://www.facebook.com/odai.alazzeh"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/></a>
-
+  	<a href="https://wa.me/+972598560564"><img src="https://raw.githubusercontent.com/odaialazzeh/odaialazzeh/f0691e9099a622f266dc3d61be4e982750ff6386/icons/facebook.svg" width="40" height="40" alt="facebook" title="facebook" /></a>
+  &emsp;
+  	<a href="https://www.linkedin.com/in/odai-alazzeh-01546024a"><img src="https://raw.githubusercontent.com/odaialazzeh/odaialazzeh/f0691e9099a622f266dc3d61be4e982750ff6386/icons/linkedin.svg" width="40" height="40" alt="linkedin" title="linkedin" /></a>
 </p>
