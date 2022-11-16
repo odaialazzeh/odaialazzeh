@@ -100,7 +100,7 @@
   &emsp;
   	<a href="https://wa.me/+972598560564"><img src="https://raw.githubusercontent.com/odaialazzeh/odaialazzeh/e5613a68829f7696169eddbc7e09c78668196878/icons/whatsapp.svg" width="40" height="40" alt="Whatsapp" title="Whatsapp" /></a>
   &emsp;
-  	<a href="https://wa.me/+972598560564"><img src="https://raw.githubusercontent.com/odaialazzeh/odaialazzeh/f0691e9099a622f266dc3d61be4e982750ff6386/icons/facebook.svg" width="40" height="40" alt="facebook" title="facebook" /></a>
+  	<a href="https://www.facebook.com/odai.alazzeh/"><img src="https://raw.githubusercontent.com/odaialazzeh/odaialazzeh/f0691e9099a622f266dc3d61be4e982750ff6386/icons/facebook.svg" width="40" height="40" alt="facebook" title="facebook" /></a>
   &emsp;
   	<a href="https://www.linkedin.com/in/odai-alazzeh-01546024a"><img src="https://raw.githubusercontent.com/odaialazzeh/odaialazzeh/f0691e9099a622f266dc3d61be4e982750ff6386/icons/linkedin.svg" width="40" height="40" alt="linkedin" title="linkedin" /></a>
 </p>
