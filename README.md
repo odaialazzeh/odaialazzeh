@@ -98,7 +98,7 @@
   &emsp;
      <a href="https://github.com/odaialazzeh" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" title="github" width="40" height="40" style="max-width: 100%;"> </a>
   &emsp;
-  	<a href="https://wa.me/+972598560564"><img src="https://github.com/odaialazzeh/odaialazzeh/blob/main/icons/whatsapp.svg" width="40" height="40" alt="Whatsapp"/></a>
+  	<a href="https://wa.me/+972598560564"><img src="https://raw.githubusercontent.com/odaialazzeh/odaialazzeh/e5613a68829f7696169eddbc7e09c78668196878/icons/whatsapp.svg" width="40" height="40" alt="Whatsapp"/></a>
   &emsp;
 
 	<a href="https://www.linkedin.com/in/odai-alazzeh-01546024a"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
