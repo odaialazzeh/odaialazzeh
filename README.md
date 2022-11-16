@@ -32,13 +32,9 @@
     <img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white">
   </a> 
   &emsp;
-  <a href="https://www.java.com" target="_blank"> 
-    <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?style=plastic&logo=java&logoColor=white">
-  </a>
+    <a href="https://www.ruby-lang.org/en/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"        	 alt="java" title="java" width="40" height="40" style="max-width: 100%;"> </a>
     &emsp;
-   <a href="https://www.https://www.ruby-lang.org/en/" target="_blank">
-    <img alt="Rupy" src="https://img.shields.io/badge/-Rupy-red">
-  </a>
+    <a href="https://www.ruby-lang.org/en/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg"        	 alt="ruby" title="ruby" width="40" height="40" style="max-width: 100%;"> </a>
 </p>
 
 ### 👉 Frontend Development
