@@ -71,14 +71,6 @@
   &emsp;
 </p>
 
- ### 👉 IDEs
- 
-<p align="center">
-  &emsp;
-  <a href="https://code.visualstudio.com/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode"  title="vscode" width="40" height="40" style="max-width: 100%;"> </a>
-  &emsp;
-  <a href="https://atom.io/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/atom/atom-original.svg" alt="atom"  title="atom" width="40" height="40" style="max-width: 100%;"> </a>
-</p>
 <br>
 <br>
 
@@ -92,7 +84,7 @@
 <br>
 <br>
 
-## 📬 Connect with me
+## 📬 Contact Me
 <p align="center">
      <a href="mailto:odai.alazzeh@gmail.com" rel="nofollow"> <img src="https://raw.githubusercontent.com/odaialazzeh/odaialazzeh/f0691e9099a622f266dc3d61be4e982750ff6386/icons/gmail.svg" alt="gmail" title="gmail" width="40" height="40" style="max-width: 100%;"> </a>
   &emsp;
