@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Odai Alazzeh<img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
-<h3 font-size="20" align="center">I'm a full-stack development student currently enrolled in Microverse</h3>
+
 
 ![](https://komarev.com/ghpvc/?username=odaialazzeh)
 
@@ -9,32 +9,29 @@
 </a>
 
 ## About me
-- I’m currently working on my full-stack development program.
+- I’m a full-stack developer.
 - I love using Software as a solution for every `Problem`
 - I have a degree in `Computer Science` and `Software Engineering`.
 - I’m currently open for: `An Intern` or a new `job opportunity.
-- Always `learning new things`
+- Always `learning new things`.
 
 <br>
 <br>
 
 ## 🛠️ My Skills
 
-### 👉 Programming languages
+### 👉 Back-end Development
 
 <p align="center" > 
-  <a href="https://www.ruby-lang.org/en/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" title="ruby" width="40" height="40" style="max-width: 100%;"> </a>
+  <a href="https://rubyonrails.org" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" title="rails" width="40" height="40" style="max-width: 100%;"> </a>
   &emsp; 
-      <a href="https://www.java.com/en/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" title="java" width="40" height="40" style="max-width: 100%;"> </a>
-    &emsp;
-    <a href="https://www.php.net/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" title="php" width="40" height="40" style="max-width: 100%;"> </a>
-  </a> 
-  &emsp;
-    <a href="https://www.cprogramming.com/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" title="c" width="40" height="40" style="max-width: 100%;"> </a>
-  &emsp;
+  <a href="https://nodejs.org/en" rel="nofollow"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="node-js" title="node-js" width="80" height="50" style="max-width: 100%;"> </a>
+  &emsp; 
+  <a href="https://expressjs.com/" rel="nofollow"> <img src="https://blog.amt.in/wp-content/uploads/2017/12/e16da876-c2fd-4eb8-ae72-4b193c534938-Edited.png" alt="express-js" title="express-js" width="120" height="60" style="max-width: 100%;"> </a>
+  &emsp; 
 </p>
 
-### 👉 Frontend Development
+### 👉 Front-end Development
 <p align="center"> 
   &emsp; 
     <a href="https://www.w3schools.com/html/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html" title="html" width="40" height="40" style="max-width: 100%;"> </a>
@@ -44,7 +41,10 @@
   </a>   
     &emsp;
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" title="javascript" width="40" height="40" style="max-width: 100%;"> </a>
-  </a>   
+  </a> 
+  &emsp;
+    <a href="https://reactjs.org/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" title="react" width="40" height="40" style="max-width: 100%;"> </a>
+  &emsp;
 </p>
 
  ### 👉  Tools & Libraries 
@@ -55,11 +55,7 @@
   &emsp;
     <a href="https://github.com/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" title="github" width="40" height="40" style="max-width: 100%;"> </a>
   &emsp;
-  <a href="https://reactjs.org/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" title="react" width="40" height="40" style="max-width: 100%;"> </a>
-  &emsp;
   <a href="https://redux.js.org" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" title="redux" width="40" height="40" style="max-width: 100%;"> </a>
-  &emsp;
-<a href="https://rubyonrails.org" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" title="rails" width="40" height="40" style="max-width: 100%;"> </a>
   &emsp;
   <a href="https://www.mongodb.com/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" title="mongodb" width="40" height="40" style="max-width: 100%;"> </a>
   &emsp;
